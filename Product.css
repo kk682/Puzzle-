@@ -1,0 +1,42 @@
+body{
+    background-color: #e3f2fd;
+    margin: 2.5cm;
+    margin-top: 5%;
+    margin-bottom: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color:#2e4374;
+}
+
+h2{
+    text-align: left;
+    font-family: Brush Script MT, cursive;
+    color: navy;
+    font-size: 66px;
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color: darkblue;
+}
+
+p{
+    color:	#2e4374;
+}
+
+.navbar{
+    color: mediumvioletred;
+}
+.card-title{
+    color: mediumvioletred;
+}
+
+.card-text{
+    color: mediumvioletred;
+}
+
+li{
+    color: #2e4374;
+}
+
+img{
+    margin-top: 20%;
+}

@@ -1,45 +1,42 @@
 body{
-    background-color: #f4f2de;
     margin: 2.5cm;
-    margin-top: 1%;
+    margin-top: 5%;
     margin-bottom: 0%;
-    color: saddlebrown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
 }
 
 h2{
-    text-align: center;
-    font-family: Brush Script MT, cursive;
-    color: saddlebrown;
-}
-
-form{
+    margin-left: 2cm;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 33px;
-    color: saddlebrown;
-    text-align: center;
+    font-size: 22px;
+}
+p{
+    margin-left: 2cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
 }
 
 a{
     display: inline-block;
-    background-color:lemonchiffon;
+    background-color:royalblue;
     width: fit-content;
     font-size: 17px;
 }
 
 a:visited{
     display: inline-block;
-    background-color:lemonchiffon;
+    background-color:royalblue;
     width: fit-content;
     font-size: 17px;
 }
 
 a:hover, a:focus {
     display: inline-block;
-    background-color:lemonchiffon;
+    background-color:royalblue;
     width: fit-content;
     font-size: 17px;
 }
-
 
 footer{
     text-align: right;
@@ -47,3 +44,4 @@ footer{
     color: black;
     margin-bottom: 0%;
 }
+

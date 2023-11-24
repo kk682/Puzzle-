@@ -3,36 +3,17 @@ body{
     margin: 2.5cm;
     margin-top: 5%;
     margin-bottom: 0%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 22px;
-    color: #2e4374;
 }
 
-p{
-    color:	#2e4374;
+.nav{
+    background-color: lemonchiffon;
 }
 
-hr{
-    border-style: dotted;
-    border-color: #ffe4e1;
-    border-width: 5px;
-    height: 20px;
-    width: 100px;
-}
-
-h1{
-    text-align: center;
-    font-family: Brush Script MT, cursive;
-    color: green;
+footer{
+    text-align: right;
+    font-size: 15px;
+    color: black;
     margin-bottom: 0%;
-}
-
-h2 {
-    border: 2px dashed darkblue;
-    box-sizing: border-box;
-    padding: 0.5 rem;
-    font-family: Chalkduster, fantasy;
-    color: indianred;
 }
 
 a{
@@ -55,5 +36,3 @@ a:hover, a:focus {
     width: fit-content;
     font-size: 17px;
 }
-
-
