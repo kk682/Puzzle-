@@ -36,3 +36,19 @@ a:hover, a:focus {
     width: fit-content;
     font-size: 17px;
 }
+
+img{
+    width: 500px; 
+    height: 600px;
+}
+
+.card{
+    margin-left: 1.5cm;
+    background-color: lemonchiffon;
+}
+
+h2{
+    margin-left: 1.5cm;
+    display: inline-block;
+    background-color: oldlace;
+}

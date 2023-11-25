@@ -19,21 +19,21 @@ p{
 
 a{
     display: inline-block;
-    background-color:royalblue;
+    background-color:teal;
     width: fit-content;
     font-size: 17px;
 }
 
 a:visited{
     display: inline-block;
-    background-color:royalblue;
+    background-color:teal;
     width: fit-content;
     font-size: 17px;
 }
 
 a:hover, a:focus {
     display: inline-block;
-    background-color:royalblue;
+    background-color:teal;
     width: fit-content;
     font-size: 17px;
 }

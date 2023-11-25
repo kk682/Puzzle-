@@ -1,5 +1,5 @@
 body{
-    background-color: lemonchiffon;
+    background-color: mintcream;
     margin: 2.5cm;
     margin-top: 5%;
     margin-bottom: 0%;
@@ -35,23 +35,27 @@ h2 {
     color: indianred;
 }
 
+.card-title{
+    color: green;
+}
+
 a{
     display: inline-block;
-    background-color:royalblue;
+    background-color:green;
     width: fit-content;
     font-size: 17px;
 }
 
 a:visited{
     display: inline-block;
-    background-color:royalblue;
+    background-color:green;
     width: fit-content;
     font-size: 17px;
 }
 
 a:hover, a:focus {
     display: inline-block;
-    background-color:royalblue;
+    background-color:green;
     width: fit-content;
     font-size: 17px;
 }
